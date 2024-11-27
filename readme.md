@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+ The American company Victoria's Secret sells apparel, cosmetics, and lingerie. However, the perfumes that Victoria Secret sells in the market are the main focus of this website.
 </div>
 
 <br />
