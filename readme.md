@@ -5,32 +5,25 @@
 <br />
 <div align="center">
   <a href="https://github.com/zyx-0314/">
-  <!-- TODO: If you want to add logo or banner you can add it here -->
     <img src="./assets/img/victoria’s-secret-logo.JPG" alt="Nyebe" width="200" height="100">
   </a>
-<!-- TODO: Change Title to the name of the title of your Project -->
   <h3 align="center">Victoria's Secret Perfume Website</h3>
 </div>
-<!-- TODO: Make a short description -->
 <div align="center">
  The American company Victoria's Secret sells apparel, cosmetics, and lingerie. However, the perfumes that Victoria Secret sells in the market are the main focus of this website.
 </div>
 
 <br />
 
-
 [![wakatime](https://wakatime.com/badge/user/f4015d32-321d-4ff7-b5bf-0b7d7d92cca2/project/62b0e2cb-d186-4f17-bb62-c6b53e4a251d.svg)](https://wakatime.com/badge/user/f4015d32-321d-4ff7-b5bf-0b7d7d92cca2/project/62b0e2cb-d186-4f17-bb62-c6b53e4a251d)
 
-<!-- TODO: Change the zyx-0314 into your github username  -->
-<!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?page=jomaridlr/WD-Seatwork-Perfume)
 
 ---
 
 <br />
 <br />
 
-<!-- TODO: If you want to add more layers for your readme -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -58,25 +51,29 @@
 
 ## Overview
 
-<!-- TODO: To be changed -->
-<!-- The following are just sample -->
-Description of the project in details.
+Guiding Questions:
+1. What is the project?
+- The project is to create a perfume brand's website without replicating the perfume's original website design. Instead, create a new one while maintaining its color scheme and branding.
 
-Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+2. Whats the purpose?
+- The goal of this project is to improve our coding abilities and learn how to properly design a website that attracts users and allows them to interact with it.
+
+3. What are key components?
+- The key components of this website are its multipage design, parallax layout, eye-catching design, user-friendly output, and, finally, a transactional feature for the offered products.
+
+4. What technology used and how it is used?
+- The Visual Studio Code application and the Tailwind CSS codes from its website are the technologies utilized to make this website.
 
 ### Key Components
-<!-- TODO: List of Key Components -->
-<!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+
+- Multipage Design
+- Parallax Layout
+- Eye-Catching Design
+- User-Friendly Output
+- Transactional Feature
 
 ### Technology
-<!-- TODO: List of Technology Used -->
+
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -117,7 +114,7 @@ WD-ProjectName
 
 ## Resources
 
-<!-- TODO: Add References -->
-| Title | Purpose | Link |
-|-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| Ready Made UI | Utilized for my website's codes. | https://readymadeui.com/ |
+| Tailwind UI | Was also used for the codes of my website. | https://tailwindui.com/ |
+| Victoria's Secret Offical Website | Reference Used for my website. | https://www.victoriassecret.com/ph/ |
+| Fragrantica Offical Website | Used to describe the scents and characteristics of perfumes. | https://www.fragrantica.com/ |
